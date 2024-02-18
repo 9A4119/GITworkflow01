@@ -1,0 +1,2 @@
+# GITworkflow01
+WORKINGFROMGITBASH2pushintogithub01
